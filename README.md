@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 正在写原创的小创意
+- 🌱 正在练习算法
+- 👯 正在学习操作系统
+- 🤔 正在尝试创收小项目
+
 <!--
 **guimeisang/guimeisang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
